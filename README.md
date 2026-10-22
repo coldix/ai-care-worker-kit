@@ -4,6 +4,10 @@ A free kit for independent aged care and home care workers in Australia: cleaner
 
 It's made by Colin Dixon of [CarePlan.au](https://careplan.au), who manages care for his mum in Mallacoota and has seen how much time workers lose to invoices sent back for small mistakes.
 
+## What is GitHub?
+
+GitHub is the free website where this kit lives. You don't need an account or any technical knowledge to use it. Open a file, such as one of the [prompts](prompts/), and copy the text you need. To take the whole kit with you, click the green **Code** button near the top of the [kit's main page](https://github.com/coldix/ai-care-worker-kit), then **Download ZIP**. The Google Sheets invoice and timesheet is one file you download and upload to your own Drive (step 9 of the whole setup).
+
 ## Start here
 
 Nothing set up yet? Follow **[Start from scratch: the whole setup](docs/start-here-whole-setup.md)**: choose a computer that matches your phone, set it up securely, then one free Google account with Gemini. A weekend to set up, then half an hour each Friday.
@@ -23,6 +27,10 @@ This kit is free and always will be. It's general information, not financial, ta
 CarePlan.au and this kit are independent. They are not run by the government or by any aged care provider, and nobody pays to be mentioned.
 
 AI tools make mistakes. Always read what they give you before you send it, and check every number.
+
+## Keep your private details in one safe place
+
+Make one private Google Doc called "My business details" in your own Drive, and never share it. Put your ABN, your bank details (BSB and account number), your hourly rates, and the names, addresses and emails of the providers you invoice in it. Keep your list of client codes there too, so "Client A" in a chat means nothing to anyone else. There's a fill-in [template](templates/my-business-details.md) to copy. When you make an invoice, Gemini can read the doc if you type @Drive or attach it, so you don't retype your bank details into chats. Never put these details in a public copy of this kit on GitHub, in a shared folder, or in an AI tool with training turned on. (Programmers call this idea a ".env file". You don't need one.)
 
 ## Privacy, in one line
 

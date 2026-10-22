@@ -55,6 +55,8 @@ Care business/
 
 Use initials for client folders, not full names. Put your ABN confirmation, public liability certificate and police certificate or NDIS screening clearance in Tax, with the expiry date in the file name. That's your "provider pack" ready to send.
 
+Then make one private Google Doc in the Care business folder called "My business details", using the [fill-in template](../templates/my-business-details.md). It holds your ABN, bank details, rates, provider contacts and your list of client codes, so they live in one place you control. Never share it. When Gemini needs your bank details for an invoice, point it at this doc with @Drive or attach it, instead of typing them into the chat.
+
 **9. Copy the invoice and timesheet spreadsheet.** Download [care-worker-invoice-and-timesheet.xlsx](../templates/care-worker-invoice-and-timesheet.xlsx) from this kit, upload it to your Care business folder in Drive, open it, then choose File, Save as Google Sheets. It has three tabs:
 
 *Settings* holds your name, ABN, rate, bank details and the last invoice number you used. Fill this in once.

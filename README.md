@@ -4,13 +4,17 @@ A free kit for independent aged care and home care workers in Australia: cleaner
 
 It's made by Colin Dixon of [CarePlan.au](https://careplan.au), who manages care for his mum in Mallacoota and has seen how much time workers lose to invoices sent back for small mistakes.
 
+## Start here
+
+Nothing set up yet? Follow **[Start from scratch with Google and Gemini (free)](docs/start-here-google-gemini.md)**: one free Google account, a weekend to set it up, then half an hour each Friday.
+
 ## What's inside
 
 The [docs](docs/) folder explains the basics in plain English: [getting set up as a sole trader](docs/getting-set-up.md), [invoicing a Support at Home provider](docs/invoicing-a-provider.md), [getting approved by a provider](docs/getting-approved.md), [chasing late payments politely](docs/late-payments.md), [keeping a weekly timesheet](docs/timesheets.md), and [which free AI tool to use](docs/free-ai-tools.md).
 
 The [prompts](prompts/) folder has copy and paste prompts for the jobs you do every week, such as turning your week into an invoice or writing a friendly overdue reminder. Each one has a privacy note.
 
-The [templates](templates/) folder has a simple invoice and timesheet, in Markdown and as CSV files you can open in Excel, Google Sheets or Numbers.
+The [templates](templates/) folder has a simple invoice and timesheet, in Markdown and as CSV files, plus a ready-made [Google Sheets invoice and timesheet](templates/care-worker-invoice-and-timesheet.xlsx) with automatic invoice numbers and totals.
 
 ## Before you start
 

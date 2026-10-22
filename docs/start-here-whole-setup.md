@@ -81,6 +81,14 @@ Either way works with this kit. If you leave it on, be strict about using client
 
 **15. Scan receipts as you go.** In the Google Drive app, tap the plus button, then Scan, photograph the receipt, and save it into Receipts as a searchable PDF ([Google: scan documents with Drive](https://support.google.com/drive/answer/3145835)). Name it with the date and what it was, e.g. "2026-10-14 Bunnings cleaning products".
 
+**16. Optional: a paid upgrade, only when it's worth it.** Free is enough for everything in this guide. *Prices checked 22 Oct 2026, and prices change.*
+
+The cheapest paid option is **Google AI Plus at A$7.99 a month**, with 400 GB of storage instead of the free 15 GB ([Google One: Google AI plans, Australia](https://one.google.com/intl/en_au/about/google-ai-plans/)). Google says it adds Gemini inside Gmail, Docs and other Google apps (such as help proofreading emails), about twice the Gemini app usage of the free plan, and family sharing of the storage with up to five people. The fuller "work smarter in Docs and Sheets" features are listed for Google AI Pro at A$32.99 a month, so check Google's comparison table for the exact feature you want before you pay. It's worth it when your Drive is nearly full of scanned receipts and invoices, or when you're doing so much in Gmail and Docs that copying and pasting from the Gemini app is slowing you down. You can cancel monthly.
+
+If you'd like email at your own web address, such as jo@citizencare.com.au, **Google Workspace Business Starter** is A$11.80 a user a month with no commitment, or A$9.90 a month on a yearly plan. It includes 30 GB of storage, Gemini in Gmail and the Gemini app ([Google Workspace Australia](https://workspace.google.com/intl/en_au/)). You also need to buy a domain name. Most solo workers don't need this; a plain Gmail address works fine with providers.
+
+Business software and subscriptions may be tax deductible; see step 3.
+
 ## Part 3: Your Friday routine
 
 **Fill in the Timesheet tab** from your Calendar and notes. If your notes are messy, paste them into Gemini with the timesheet prompt below.
@@ -160,4 +168,4 @@ percentage to set aside from each payment. Remind me to check with the ATO.
 
 ## What's free and what's paid
 
-Everything in this guide works on a free account. Some Gemini features you may see advertised inside Gmail, Docs and Sheets need a paid Google AI plan (Google AI Plus, Pro or Ultra) in Australia ([Google: Gemini in Workspace apps](https://support.google.com/mail/answer/13952129)). That includes the "Ask Gemini" side panel in Sheets, Docs and Gmail, and "Help me write" in Gmail, which is free only in the US. The free alternative is what this guide does: use the Gemini app, then copy its answer into Sheets or Gmail.
+Everything in this guide works on a free account (see step 16 for the paid options). Some Gemini features you may see advertised inside Gmail, Docs and Sheets need a paid Google AI plan (Google AI Plus from A$7.99 a month, Pro or Ultra) in Australia ([Google: Gemini in Workspace apps](https://support.google.com/mail/answer/13952129)). That includes the "Ask Gemini" side panel in Sheets, Docs and Gmail, and "Help me write" in Gmail, which is free only in the US. The free alternative is what this guide does: use the Gemini app, then copy its answer into Sheets or Gmail.

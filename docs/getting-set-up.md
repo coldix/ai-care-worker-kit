@@ -16,6 +16,8 @@ If you trade under your own first name and surname, such as "Jo Citizen", you do
 
 Public liability insurance covers you if someone is hurt or their property is damaged because of your work. It isn't compulsory by law for a sole trader with no staff, but almost every provider will ask for a current certificate before they pay you, so treat it as essential ([business.gov.au: insurance](https://business.gov.au/risk-management/insurance)). Personal accident or income protection cover is worth thinking about too, because if you're hurt, nobody else pays you.
 
+If you want a quote, I use <a href="https://insure.bizcover.com.au/OccupationSelection?referrerid=M8Bam" rel="sponsored noopener">BizCover</a>. I hold my own professional indemnity and public liability cover with BizCover and I've found them well priced. If you use my link I may get a small commission. It doesn't affect your price.
+
 ## Worker screening
 
 Anyone delivering funded aged care through a registered provider, including workers engaged by a client who self-manages, needs either a police certificate less than 3 years old or an NDIS Worker Screening Clearance. The provider checks it and keeps a record, so have a copy ready ([health.gov.au: screening requirements](https://www.health.gov.au/topics/aged-care-workforce/screening-requirements)). Some providers also ask for a first aid certificate or proof of vaccinations, depending on the work.

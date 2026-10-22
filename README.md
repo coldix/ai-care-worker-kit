@@ -1,5 +1,7 @@
 # AI Care Worker Kit
 
+<img src="images/ai-toolkit-infographic.webp" width="1280" height="715" alt="AI Toolkit for Independent Care Workers, in five steps. 1, Establish business credentials: set up as a sole trader with an ABN and business insurance. 2, Set up free digital tools: pair your phone and computer with a dedicated Google account and free Gemini. 3, Keep privacy-safe timesheets using codes like Client A. 4, Turn your logged hours into Support at Home invoices with copy and paste prompts. 5, Chase overdue payments politely with friendly follow-up reminders." />
+
 A free kit for independent aged care and home care workers in Australia: cleaners, gardeners, support workers and anyone else working for clients on Support at Home, including clients who self-manage. It shows you how to use free AI chat tools to do the paperwork side of a one-person business, so you spend less time at the kitchen table on a Sunday night and more time doing the work you're good at.
 
 It's made by Colin Dixon of [CarePlan.au](https://careplan.au), who manages care for his mum in Mallacoota and has seen how much time workers lose to invoices sent back for small mistakes.

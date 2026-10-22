@@ -1,0 +1,4 @@
+Invoice number,Invoice date,Due date,Provider,Client reference,Date of service,Service type,What I did,Hours,Rate,Amount
+JC-1001,22/10/2026,05/11/2026,Provider name,123456,13/10/2026,Domestic assistance,"Kitchen, bathroom, vacuum and mop",2,60,=I2*J2
+JC-1001,22/10/2026,05/11/2026,Provider name,123456,15/10/2026,Social support,Shopping trip and lunch in town,3,60,=I3*J3
+,,,,,,,,,Total,=SUM(K2:K3)

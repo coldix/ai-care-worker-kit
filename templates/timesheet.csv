@@ -1,0 +1,4 @@
+Date,Client code,Start,Finish,Hours,Service type,What I did,Km (if agreed)
+13/10/2026,Client A,09:00,11:00,2,Domestic assistance,"Kitchen, bathroom, vacuum and mop",
+15/10/2026,Client A,10:00,13:00,3,Social support,Shopping trip and lunch in town,
+,,,Total,=SUM(E2:E3),,,

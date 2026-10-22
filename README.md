@@ -6,7 +6,7 @@ It's made by Colin Dixon of [CarePlan.au](https://careplan.au), who manages care
 
 ## Start here
 
-Nothing set up yet? Follow **[Start from scratch with Google and Gemini (free)](docs/start-here-google-gemini.md)**: one free Google account, a weekend to set it up, then half an hour each Friday.
+Nothing set up yet? Follow **[Start from scratch: the whole setup](docs/start-here-whole-setup.md)**: choose a computer that matches your phone, set it up securely, then one free Google account with Gemini. A weekend to set up, then half an hour each Friday.
 
 ## What's inside
 
